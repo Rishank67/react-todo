@@ -1,4 +1,4 @@
-Visit app on - https://rishank99.github.io/react-todo/
+Visit app on - https://rishank67.github.io/react-todo/
 
 Features:
 1) Each task can be checked if it completed.
